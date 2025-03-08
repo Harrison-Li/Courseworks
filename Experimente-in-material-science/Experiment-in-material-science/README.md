@@ -5,7 +5,7 @@ To run the Jupyter Notebook, please install the following:
 Anaconda (https://www.anaconda.com/distribution/), which already consists of Jupyter Notebook, NumPy, pandas, seaborn, matplotlib, SciPy, scikit-learn.
 
 Jupyter Notebook (https://jupyter.org/install.html)
-
+https://github.com/Harrison-Li/Courseworks/tree/main/Experimente-in-material-science
 There are several packages and/or libraries that need to be installed to run the notebook:
 
 Pandas (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
